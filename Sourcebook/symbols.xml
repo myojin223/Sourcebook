@@ -4,34 +4,34 @@
     <Symbols>
         <!-- REGULAR MANA SYMBOLS -->
         <Symbol representation="{W}">
-            <Glyphs font="ONDPMTG" glyphs="v" color="#5c4b2f"/>
-            <Glyphs font="NDPMTG" glyphs="w" color="#5c4b2f">
+            <Glyphs font="ONDPMTG" glyphs="v" color="#897d68"/>
+            <Glyphs font="NDPMTG" glyphs="w" color="#897d68">
                 <!-- This shadow prevents the foremost glyphs from having shadows -->
             </Glyphs>
         </Symbol>
         <Symbol representation="{U}">
-            <Glyphs font="ONDPMTG" glyphs="v" color="#006eaf"/>
-            <Glyphs font="NDPMTG" glyphs="u" color="#006eaf">
+            <Glyphs font="ONDPMTG" glyphs="v" color="#025768"/>
+            <Glyphs font="NDPMTG" glyphs="u" color="#025768">
             </Glyphs>
         </Symbol>
         <Symbol representation="{B}">
-            <Glyphs font="ONDPMTG" glyphs="v" color="#1c0d1e"/>
-            <Glyphs font="NDPMTG" glyphs="b" color="#1c0d1e">
+            <Glyphs font="ONDPMTG" glyphs="v" color="#26231e"/>
+            <Glyphs font="NDPMTG" glyphs="b" color="#26231e">
             </Glyphs>
         </Symbol>
         <Symbol representation="{R}">
-            <Glyphs font="ONDPMTG" glyphs="v" color="#e41a2d"/>
-            <Glyphs font="NDPMTG" glyphs="r" color="#e41a2d">
+            <Glyphs font="ONDPMTG" glyphs="v" color="#781114"/>
+            <Glyphs font="NDPMTG" glyphs="r" color="#781114">
             </Glyphs>
         </Symbol>
         <Symbol representation="{G}">
-            <Glyphs font="ONDPMTG" glyphs="v" color="#156b17"/>
-            <Glyphs font="NDPMTG" glyphs="g" color="#156b17">
+            <Glyphs font="ONDPMTG" glyphs="v" color="#0e4216"/>
+            <Glyphs font="NDPMTG" glyphs="g" color="#0e4216">
             </Glyphs>
         </Symbol>
         <Symbol representation="{C}">
-            <Glyphs font="ONDPMTG" glyphs="v" color="#5c4b2f"/>
-            <Glyphs font="NDPMTG" glyphs="c" color="#5c4b2f">
+            <Glyphs font="ONDPMTG" glyphs="v" color="#897d68"/>
+            <Glyphs font="NDPMTG" glyphs="c" color="#897d68">
             </Glyphs>
         </Symbol>
 
@@ -258,8 +258,8 @@
         <!-- MISCELLANEOUS -->
         <Symbol representation="{S}">
             <!-- SNOW MANA -->
-            <Glyphs font="ONDPMTG" glyphs="v" color="#5c4b2f"/>
-            <Glyphs font="NDPMTG" glyphs="m" color="#5c4b2f">
+            <Glyphs font="ONDPMTG" glyphs="v" color="#897d68"/>
+            <Glyphs font="NDPMTG" glyphs="m" color="#897d68">
                 <Shadow color="#00000000" dX="0" dY="0"/>
             </Glyphs>
             <Glyphs font="NDPMTG" glyphs="n" color="#FFFFFF">
