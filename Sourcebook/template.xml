@@ -11,8 +11,8 @@
         <ToggleOption id="copyright" default="false"/>
         <!-- Whether or not to render the copyright text -->
         <ToggleOption id="flavor_text" default="true"/>
-        <!-- Whether or not to render the flavor bar -->
-        <ToggleOption id="flavor_bar" default="false"/>
+        <!-- Whether or not to render the flavor bar **NOTE! THE FLAVOR BAR CAN CAUSE SOME CARDS TO FAIL ENTIRELY WITHOUT REASON**-->
+        <ToggleOption id="flavor_bar" default="true"/>
         <ToggleOption id="show_set_symbol" default="true"/>
         <!-- Uses the cards set symbol as a watermark -->
         <ToggleOption id="set_symbol_watermark" default="false"/>
